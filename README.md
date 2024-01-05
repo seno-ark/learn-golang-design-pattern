@@ -1,1 +1,1 @@
-#  learn-golang-design-pattern
+# Learn Design Patterns with Golang
